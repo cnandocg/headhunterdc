@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://headhunterdc.pages.dev/sitemap.xml
