@@ -27,6 +27,11 @@ Site estático: não precisa instalar nem compilar nada. Para ver, abra `index.h
 - **Capas e fotos:** troque o arquivo em `img/` mantendo o mesmo nome.
 - **Endereço do site:** se mudar de `headhunterdc.pages.dev`, troque também no topo das quatro páginas, em `robots.txt` e em `sitemap.xml`.
 
+## Como publicar
+
+O Cloudflare Pages (projeto `headhunterdc`) está ligado a este repositório.
+Todo envio para a branch `main` publica o site sozinho em um ou dois minutos.
+
 ## Direitos
 
 Logo, capas, fotos e textos pertencem à Headhunter D.C. e aos respectivos autores e selos. Todos os direitos reservados.
